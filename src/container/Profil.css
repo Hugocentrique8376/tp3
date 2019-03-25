@@ -1,0 +1,29 @@
+.Profil-container{
+    
+    margin: 10px;
+    padding: 150px;
+    border: 1px solid black;
+}
+
+.info-prof{
+    background: rgb(64, 84, 121);
+}
+
+.caca{
+    
+    position: relative;
+   
+    
+}
+.deux{
+    
+    position: relative;
+    left: 100px;
+
+}
+.trois{
+   
+    position: relative;
+  
+    
+}
